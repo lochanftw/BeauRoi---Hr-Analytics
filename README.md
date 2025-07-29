@@ -1,68 +1,52 @@
-Beau-Roi---HR-Analytics-Project🎯 
+Beau Roi - Group C Interns - HR Data Analytics Project🎯 
 
 Project Objective :
-The goal of this project is to analyze internal HR data to uncover actionable insights related to:
-- Employee engagement & satisfaction
-- Retention & attrition trends
-- Performance improvement opportunities
-- Burnout risk factors
+The project aims to conduct a comprehensive analysis of internal HR data covering 500 employees across multiple departments. 
 
-The outcome of this project is a dashboard and a recommendation report for HR leadership to support better decision-making.
+The focus is to identify key patterns in employee engagement, satisfaction, attrition, absenteeism, burnout risk, training effectiveness, and performance trends. 
 
- Deliverables
-1. Data Profiling & Cleaning Report 
-2. Correlation Analysis – Insights into engagement Dataset overview, missing values, distributions, and correlations.
-3. Key Insights Report (with visualizations) – Highlights of major findings from the dataset.
-4. Final Dashboard (Power BI / Tableau) – Interactive dashboard for HR leadership.
-5. Executive Summary & Recommendations – Data-backed strategic recommendations.
+By leveraging data profiling, correlation analysis, visualization, and query-driven insights, the project delivers a strategic HR dashboard and recommendation reports. 
 
- Challenges
-Challenge 1: Department-Level Analysis
-- Compare each department’s engagement, absenteeism, and performance against company averages.
-- Normalize scores for fair comparison.
-- Create heatmaps to rank departments by multiple HR metrics.
-- Flag “at-risk” departments (e.g., low engagement + high attrition).
-
- Outcome: Tailored departmental recommendations to improve engagement and reduce attrition.
-
-Challenge 2: Strategic Recommendation Report
-- Summarize findings with data and insights.
-- Identify Top 3 Engagement Drivers.
-- Highlight department-level red flags.
-- Recommend 3 action items backed by data.
-
- Outcome: A 6-page HR leadership report.
-
-Challenge 3: Mini SQL Query Library
-A set of reusable SQL queries to assist HR analytics tasks such as:
-- Attrition trends
-- Absenteeism by department
-- Tenure segmentation
-- High performers at burnout risk
-- Engagement vs performance analysis
-
- Includes both SQL scripts and query outputs.
-
- Reports & Deliverables
-- Deliverable 1: Data Profiling Report
-- Deliverable 3: Key Insight Report
-- Deliverable 4: HR Analytics Dashboard Sample
-- Deliverable 5: Executive Summary & Recommendations
-- Challenge 1: Departmental Insights Report
-- Challenge 2: HR Strategic Recommendations Report
-- Challenge 3: SQL Query Library along with Outputs
+These outputs are designed to empower HR leadership with data-driven decisions, enabling proactive interventions, improved employee retention, and enhanced organizational well-being.
 
 
- Tools & Technologies Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning & analysis
-- SQL (MySQL) – Query-based insights & segmentation
-- Power BI / Tableau – Dashboard & visualization
-- YData Profiling – Automated data profiling & cleaning report
+Deliverables Completed ✅ :
 
- Contributors
+Deliverable 1 : Data Profiling Report – Dataset overview, structure, and quality check.
+
+Deliverable 2 : Correlation analysis – Employee Metrics Heatmap and Correlation insights
+
+Deliverable 3 : Key Insights Report – Highlights of major findings from the dataset.
+
+Deliverable 4 : HR Analytics Dashboard – Interactive Power BI dashboard.
+
+Deliverable 5 : 6 Page Executive Summary Report – Strategic recommendations for HR leadership.
+
+
+Challenges Completed ✅ :
+
+✅ Challenge 1: Departmental Comparison and Tailored Solutions
+
+We normalized engagement, absenteeism, and performance scores across all departments. Heatmaps were created to highlight gaps, and the Management department was flagged as “at risk” due to low engagement and high absenteeism. Tailored, department-specific recommendations were provided.
+
+✅ Challenge 2: 6 page Strategic HR Report
+
+A 6-page recommendation report was developed, summarizing findings on engagement, satisfaction, burnout, and attrition. The report identified the top 3 engagement drivers (satisfaction, training, recognition), highlighted red-flag departments (Sales, Technical, Support, Operations), and proposed 3 targeted interventions with an implementation roadmap for HR leadership.
+
+✅ Challenge 3: SQL Query Library
+
+A mini SQL query library was built to support HR analytics tasks. It includes queries for attrition trends, absenteeism by department, tenure segmentation, training attendance, high performer burnout risk, and engagement analysis. Outputs were validated and compiled into a reference report.
+
+🛠 Tools & Technologies Used : 
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn) : Data cleaning & analysis
+- SQL (MySQL) : Query-based insights & segmentation
+- Power BI : Dashboard & visualization
+- YData Profiling : Automated data profiling & cleaning report
+
 Group C Interns
 Team Members:
-- S.Sowravkanth 
+- S.Sowravkanth
 - Thirumal N
 - Hrithik Y
 - Abarnaa K
